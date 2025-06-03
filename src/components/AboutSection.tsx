@@ -47,27 +47,27 @@ const AboutSection = () => {
   const services = [
     {
       icon: <PenTool size={24} />,
-      title: "UI/UX Design",
+      title: "Software Development",
       description:
-        "Creating intuitive and engaging user experiences with clean, modern interfaces.",
+        "Building efficient, scalable, and reliable software solutions with clean code and modern development practices.",
     },
     {
       icon: <Palette size={24} />,
-      title: "Brand Identity",
+      title: "Web Development",
       description:
-        "Developing cohesive visual identities that communicate brand values effectively.",
+        "Designing and developing responsive, user-focused web applications with clean code and modern frameworks.",
     },
     {
       icon: <Code size={24} />,
-      title: "Graphic Illustration",
+      title: "Data Analysis",
       description:
-        "Crafting unique illustrations and visual elements that enhance storytelling.",
+        "Extracting insights from complex data sets using analytical tools, visualization techniques, and statistical methods.",
     },
     {
       icon: <Layout size={24} />,
-      title: "Web Layouts",
+      title: "Database Management",
       description:
-        "Designing responsive and aesthetically pleasing web layouts for optimal user flow.",
+        "Designing, organizing, and maintaining structured databases to ensure data integrity, accessibility, and performance.",
     },
   ];
 
@@ -92,7 +92,7 @@ const AboutSection = () => {
               <div className="w-full md:w-1/3">
                 <div className="aspect-square overflow-hidden rounded-md bg-gray-900">
                   <img
-                    src="https://images.unsplash.com/photo-1531891570158-e71b35a485bc?w=800&q=80"
+                    src="https://i.ibb.co/PGs6dVwp/abhi.jpg"
                     alt="Abhinava Ghosh"
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                   />
@@ -101,11 +101,7 @@ const AboutSection = () => {
 
               <div className="w-full md:w-2/3">
                 <p className="text-gray-300 leading-relaxed">
-                  I am a B.Tech Computer Science student from JIS University
-                  (2022–2026) with a strong passion for visual storytelling,
-                  clean interfaces, and user-first design. I've developed web
-                  projects, honed my skills in design systems, and continually
-                  blend tech with creativity.
+                 I am a B.Tech Computer Science student from JIS University (2022–2026) with a strong passion for visual storytelling, clean and functional design, and user-centered experiences. I've built responsive web projects, sharpened my skills in modern design systems, and constantly strive to merge technology with creativity.
                 </p>
                 <div className="mt-6 flex gap-4">
                   <div className="h-20 w-20 rounded-full bg-black/50 border border-[#E3CBA5]/30 flex items-center justify-center">
@@ -113,7 +109,7 @@ const AboutSection = () => {
                   </div>
                   <div className="flex flex-col justify-center">
                     <span className="text-white font-medium">Years of</span>
-                    <span className="text-[#E3CBA5]">Design Experience</span>
+                    <span className="text-[#E3CBA5]">Developing Experience</span>
                   </div>
                 </div>
               </div>

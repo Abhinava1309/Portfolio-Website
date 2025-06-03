@@ -58,7 +58,7 @@ const HeroSection = ({
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-[#E3CBA5]">
               <img
-                src={profileImage}
+                src="https://i.ibb.co/Ps1MrTqy/portrait-enhanced.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />

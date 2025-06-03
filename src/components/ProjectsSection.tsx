@@ -23,7 +23,7 @@ const ProjectsSection = () => {
       description: "Real-time object detection using YOLOv3 and CNN.",
       image:
         "https://images.unsplash.com/photo-1576153192396-180ecef2a715?w=800&q=80",
-      category: "ui-ux",
+      category: "AI/ML",
     },
     {
       id: "2",
@@ -32,7 +32,7 @@ const ProjectsSection = () => {
       description: "ATS-optimized resume builder with scoring system.",
       image:
         "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
-      category: "ui-ux",
+      category: "ML",
     },
     {
       id: "3",
@@ -140,16 +140,16 @@ const ProjectsSection = () => {
                 All Projects
               </TabsTrigger>
               <TabsTrigger value="ui-ux" className="text-sm px-4 py-2">
-                UI/UX Design
+                Blockchain
               </TabsTrigger>
               <TabsTrigger value="3d-design" className="text-sm px-4 py-2">
-                3D Design
+                Webdev
               </TabsTrigger>
               <TabsTrigger value="animation" className="text-sm px-4 py-2">
-                Animation
+                AI/ML
               </TabsTrigger>
               <TabsTrigger value="logo-design" className="text-sm px-4 py-2">
-                Logo Design
+                Pyhton
               </TabsTrigger>
             </TabsList>
           </div>

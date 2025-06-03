@@ -66,7 +66,7 @@ const Home = () => {
             </p>
             <div className="flex space-x-6">
               <a
-                href="https://github.com"
+                href="https://github.com/Abhinava1309/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-[#E3CBA5] transition-colors"
@@ -88,7 +88,7 @@ const Home = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/abhinava-ghosh-054766283/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-[#E3CBA5] transition-colors"
@@ -111,7 +111,7 @@ const Home = () => {
                 </svg>
               </a>
               <a
-                href="mailto:contact@example.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=susmitasurcoc600@gmail.com&su=Hello&body=Hi%20there!"
                 className="text-gray-400 hover:text-[#E3CBA5] transition-colors"
               >
                 <svg
@@ -131,7 +131,7 @@ const Home = () => {
                 </svg>
               </a>
               <a
-                href="https://behance.net"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=susmitasurcoc600@gmail.com&su=Hello&body=Hi%20there!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-[#E3CBA5] transition-colors"

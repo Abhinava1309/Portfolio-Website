@@ -35,9 +35,9 @@ const ContactSection: React.FC<ContactSectionProps> = ({
   skills = [
     { name: "Web Development", rating: 4, category: "HTML, CSS, Bootstrap" },
     {
-      name: "Graphic Tools",
+      name: "Database Management",
       rating: 5,
-      category: "Adobe Photoshop, Illustrator, Figma",
+      category: "SQL, MongoDB",
     },
     { name: "Programming", rating: 4, category: "Python, Java, C/C++" },
     { name: "Data Analytics", rating: 4, category: "Excel, Pandas, NumPy" },
@@ -45,7 +45,6 @@ const ContactSection: React.FC<ContactSectionProps> = ({
   stats = [
     { value: 2000, label: "Project Views", suffix: "+" },
     { value: 53, label: "Happy Clients", suffix: "+" },
-    { value: 3, label: "Awards", suffix: "+" },
     { value: 3, label: "Years Experience", suffix: "+" },
   ],
   testimonial = {
